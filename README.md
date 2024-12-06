@@ -1,50 +1,78 @@
-# Welcome to your Expo app 👋
+# Bem-vindo ao app bookconnect 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center"> <img src="./assets/images/logo.png" alt="Detalhes do Livro"> </p>
 
-## Get started
+Este é um projeto que foi criado com [Expo](https://expo.dev). 
 
-1. Install dependencies
+Bookconnect é um aplicativo desenvolvido com Expo que permite aos usuários encontrar e comprar livros de uma empresa chamada Bookcase. O aplicativo é construído utilizando `react-native-paper`, `react-native`, `@react-navigation/bottom-tabs` e `@react-navigation/stack`.
+
+## 📝 Visão Geral 
+
+Bookconnect oferece uma experiência fluida para os usuários navegarem e comprarem livros. Através de uma interface limpa e intuitiva, os usuários podem explorar diversos títulos, adicionar livros ao carrinho e finalizar compras de qualquer lugar.
+
+- **Navegação por Abas**: Utiliza `@react-navigation/bottom-tabs` para uma navegação intuitiva entre diferentes seções do aplicativo. 
+- **Navegação em Pilha**: Integração com `@react-navigation/stack` para uma navegação eficiente entre telas. 
+- **Interface de Usuário Moderna**: Utiliza `react-native-paper` para componentes de UI elegantes e acessíveis. 
+- **Catálogo de Livros**: Explore uma vasta coleção de livros disponíveis para compra. 
+- **Carrinho de Compras**: Adicione livros ao carrinho e finalize a compra facilmente. 
+- **Busca Avançada**: Encontre livros rapidamente utilizando a funcionalidade de busca. 
+
+## 📚 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais
+
+## 📱 Tecnologias Utilizadas
+
+- [Expo](https://expo.dev/) 
+- [React Native](https://reactnative.dev/) 
+- [React Native Paper](https://callstack.github.io/react-native-paper/) 
+- [React Navigation](https://reactnavigation.org/)
+
+## 🛠️ Instalação e Uso 
+
+1. Clone o repositório: 
+
+   ```
+   git clone https://github.com/seu-usuario/bookconnect
+   ```
+2. Instale as dependências
 
    ```bash
    npm install
    ```
 
-2. Start the app
+3. Inicie o app
 
    ```bash
     npx expo start
    ```
+## 📱 Figma do projeto
 
-In the output, you'll find options to open the app in a
+### -  [Clique aqui para visualizar o figma do projeto Bookconnect](https://www.figma.com/design/EHGITG7hvnETWoV8Lh7lKJ/bookconnect?node-id=1-761&t=ZyGCUWptT13pvJvg-1) 
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🤝 Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests. Para mudanças maiores, por favor, abra uma issue primeiro para discutir o que você gostaria de mudar.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📧 Contato
+Para perguntas ou sugestões, entre em contato via jvpeluzio@gmail.com
 
-## Get a fresh project
+## 📸 Screenshots
+### 1. Tela welcome 
 
-When you're ready, run:
+<p align="center"> <img src="./assets/screenshots/screen1.png" alt="tela welcome"> </p>
 
-```bash
-npm run reset-project
-```
+### 2. Tela Login 
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+<p align="center"> <img src="./assets/screenshots/screen2.png" alt="tela Login"> </p>
 
-## Learn more
+### 3. Tela Home 
 
-To learn more about developing your project with Expo, look at the following resources:
+<p align="center"> <img src="./assets/screenshots/screen3.png" alt="tela Home"> </p>
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
 
-Join our community of developers creating universal apps.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+#### 📚OBS: Este aplicativo está em fase de desenvolvimento.

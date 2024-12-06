@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Tuesday Mooney",
+    "author": "Harper Lee",
+    "price": "R$ 29,90",
+    "genre": "Drama",
+    "imageUrl": "book1.png",
+    "isNewReleases": false
+  },
+  {
+    "id": "2",
+    "title": "What Should Be Wild",
+    "author": "Julia Fine",
+    "price": "R$ 39,90",
+    "genre": "Ficção",
+    "imageUrl": "book2.png",
+    "isNewReleases": false
+  },
+  {
+    "id": "3",
+    "title": "Nine Liars",
+    "author": "Maureen Johnson",
+    "price": "R$ 25,90",
+    "genre": "Fábula",
+    "imageUrl": "book3.png",
+    "isNewReleases": false
+  },
+  {
+    "id": "4",
+    "title": "The Catcher",
+    "author": "Salinger Newman",
+    "price": "R$ 31,50",
+    "genre": "Horror",
+    "imageUrl": "book4.png",
+    "isNewReleases": true
+  },
+  {
+    "id": "5",
+    "title": "Queen",
+    "author": "St. Clair",
+    "price": "R$ 67,98",
+    "genre": "Aventura",
+    "imageUrl": "book5.png",
+    "isNewReleases": true
+  },
+  {
+    "id": "6",
+    "title": "The picture of Dorsan",
+    "author": "Oscar Wilde",
+    "price": "R$ 13.98",
+    "genre": "Aventura",
+    "imageUrl": "book6.png",
+    "isNewReleases": true
+  }
+]
